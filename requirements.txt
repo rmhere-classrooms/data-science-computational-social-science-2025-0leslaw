@@ -1,0 +1,5 @@
+rsconnect-python
+pandas
+igraph
+shiny
+matplotlib

@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\aleks\\Pulpit\\IST_7SEM\\danologia\\data-science-computational-social-science-2025-0leslaw\\mysolution",
+        "app_url": "https://alewoz.shinyapps.io/app1/",
+        "app_id": "16194713",
+        "app_guid": null,
+        "title": "app1",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
